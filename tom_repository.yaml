@@ -1,0 +1,8 @@
+# Tom Repository Configuration
+# This file identifies the repository for git traversal commands
+
+repository_id: WEBWK
+name: webwork
+description: >-
+  Webwork document format and UI for hierarchical, multi-type content.
+github: al-the-bear/tom_app_webwork
